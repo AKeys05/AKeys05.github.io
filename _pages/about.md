@@ -31,6 +31,6 @@ My research interests lie in the design of `human-centered interactive technolog
 
 Beyond my academic pursuits, I am enthusiastic about traveling and outdoor experiences, crocheting, and creative personal expression.
 
-Feel free to take a look at my [CV]({{ '/cv/' | relative_url }}) and reach out if you’d like to chat about any of the above!
+Feel free to take a look at my [CV](/assets/pdf/cv.pdf) and reach out if you’d like to chat about any of the above!
 
-Keywords: Human–Computer Interaction, Accessibility, Assistive Technology, Implementation Science, Participatory Design, Creative Computing, User-Centered Design, Serious Games
+**Keywords:** `Human–Computer Interaction, Accessibility, Assistive Technology, Implementation Science, Participatory Design, Creative Computing, User-Centered Design, Serious Games`
