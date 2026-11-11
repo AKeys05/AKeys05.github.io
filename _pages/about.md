@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a 4th-year CS Undergrad student at Howard University, where I am working at the  [Institute for Human-Centered Artificial Intelligence](https://sites.google.com/view/hcaiathoward/) within Dr. Saurav Aryal's [AI for Positive Change Lab](https://ai4pc.howard.edu/home). I am also a member of the 7th cohort of the [Karsh STEM Scholars Program](https://karshstemscholars.howard.edu/).
+Hello! I am a 4th-year CS Undergrad student at Howard University, where I am working at the [Institute for Human-Centered Artificial Intelligence](https://sites.google.com/view/hcaiathoward/) within Dr. Saurav Aryal's [AI for Positive Change Lab](https://ai4pc.howard.edu/home). I am also a member of the 7th cohort of the [Karsh STEM Scholars Program](https://karshstemscholars.howard.edu/).
 
 My research interests lie in the design of `human-centered interactive technologies` (e.g., games, applications, simulations, XR, AI, etc.) that provide equitable and engaging solutions to `mental/physical healthcare` challenges. I am especially passionate about improving the `quality of life and well-being of marginalized communities and vulnerable populations`.
 

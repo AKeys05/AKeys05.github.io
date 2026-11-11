@@ -8,7 +8,7 @@ category: research
 ---
 
 **Howard University Institute for Human-Centered AI — AI for Positive Change Lab**  
-*Undergraduate Researcher · Washington, D.C. · September 2025–Present*  
+_Undergraduate Researcher · Washington, D.C. · September 2025–Present_  
 Advisors: Saurav Aryal and Gloria Washington
 
 <figure>
