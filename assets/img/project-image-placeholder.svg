@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Project image placeholder</title>
+  <desc id="desc">Replace this placeholder with a project image.</desc>
+  <rect width="1200" height="675" fill="#f1f3f5" />
+  <path d="M0 520 300 260l190 165 205-235 505 330v155H0Z" fill="#d5dbe1" />
+  <circle cx="900" cy="180" r="58" fill="#c4ccd4" />
+  <rect x="350" y="540" width="500" height="70" rx="12" fill="#fff" opacity=".88" />
+  <text x="600" y="585" text-anchor="middle" fill="#52606d" font-family="Arial, sans-serif" font-size="30">Replace with project image</text>
+</svg>
