@@ -1,34 +1,39 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"murai":
+  - firstname: ["Fabricio", "F."]
+    url: https://www.wpi.edu/people/faculty/fmurai
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"aryal":
+  - firstname: ["Saurav", "S.", "S. K."]
+    url: https://ai4pc.howard.edu/profile-page-template/dr-saurav-aryal
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"washington":
+  - firstname: ["Gloria", "G."]
+    url: https://sites.google.com/scs.howard.edu/gloriawashingtonphd/home
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"oyekoya":
+  - firstname: ["Oyewole", "O."]
+    url: https://wolex.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"chan":
+  - firstname: ["Daniel", "D."]
+    url: https://sps.cuny.edu/about/directory/daniel-k.chan
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"smith":
+  - firstname: ["Peter", "P."]
+    url: https://communication.ucf.edu/person/peter-smith/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"sparkman":
+  - firstname: ["John", "J."]
+    url: https://limbitless-solutions.org/ourStory
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"dombrowski":
+  - firstname: ["Matt", "M."]
+    url: https://cah.ucf.edu/person/matt-dombrowski/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"manero":
+  - firstname: ["Albert", "A."]
+    url: https://limbitless-solutions.org/ourStory
+
+"turgut":
+  - firstname: ["Damla", "D."]
+    url: https://www.cecs.ucf.edu/faculty/damla-turgut/
