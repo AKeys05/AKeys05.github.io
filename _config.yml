@@ -256,7 +256,7 @@ keep_files:
   - .nojekyll
 
 # Use al_folio_core as the theme runtime; local files can still override theme files.
-theme: preferred_color_scheme
+theme: modernist
 
 # Plug-ins
 plugins:
